@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/saidhan/Desktop/RaspiCar/build",
-  "command": "/usr/bin/aarch64-linux-gnu-g++ -I/home/saidhan/Desktop/RaspiCar/inc -I/home/saidhan/Desktop/RaspiCar/pifiles -mcpu=cortex-a53 -Wl,--no-as-needed  -g -std=gnu++17 -o CMakeFiles/MyHttpServer.dir/src/main.cpp.o -c /home/saidhan/Desktop/RaspiCar/src/main.cpp",
-  "file": "/home/saidhan/Desktop/RaspiCar/src/main.cpp"
-}
-]
