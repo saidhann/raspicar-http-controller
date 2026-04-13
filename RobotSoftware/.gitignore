@@ -1,0 +1,6 @@
+
+# vscode files
+.vscode
+
+# build files
+build/
